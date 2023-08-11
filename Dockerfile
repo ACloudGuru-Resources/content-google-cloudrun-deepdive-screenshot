@@ -1,4 +1,4 @@
-FROM node:10
+FROM node:20
 
 # Adds required libs
 RUN apt-get update && \
